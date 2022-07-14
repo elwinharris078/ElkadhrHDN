@@ -18,10 +18,6 @@
         "description": "Laravel debug mode. Unless developing the application or actively debugging a problem, this should be set to false.",
         "value": "false"
       },
-      "APP_KEY": {
-        "description": "A secret key for verifying the integrity of signed cookies. (See either https://snipe-it.readme.io/docs/generate-your-app-key or generate at https://coderstoolbox.online/toolbox/generate-symfony-secret)",
-        "value": ""
-      },
       "APP_URL": {
         "description": "URL where your Snipe-IT install will be available at.",
         "value": "https://your-app-name.herokuapp.com"
